@@ -21,6 +21,7 @@ body {
 body {
   font-size: 14px;
   line-height: 24px;
+  font-family: '微软雅黑';
 }
 img,
 a,
@@ -142,6 +143,9 @@ body {
 .nav2 > div div.nav-list a {
   color: #fff;
   font-size: 16px;
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 .nav2 > div div.nav-list > div {
   position: absolute;
@@ -376,6 +380,9 @@ body {
 .nav > div div.nav-list > a {
   color: #fff;
   font-size: 16px;
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 .nav > div div.nav-list > div {
   position: absolute;
@@ -465,7 +472,7 @@ body {
   background: red;
   margin: 0 auto;
   background: transparent;
-  height: 877px;
+  height: 879px;
 }
 .center-content .box {
   padding-top: 20px;
@@ -872,10 +879,6 @@ body {
   width: 100%;
   height: 80px;
 }
-#section5 > div .item .num img{
-  position:relative;
-  top:-20px;
-}
 #section5 > div .item .p1 {
   font-size: 24px;
   font-weight: 800;
@@ -931,7 +934,7 @@ body {
   box-shadow: 1px 2px 6px 0px rgba(76, 190, 244, 0.42);
   border-radius: 5px;
   border: solid 1px #2ba4f7;
-  position:relative;
+  position: relative;
 }
 #section6 .box7 > div img {
   height: 120px;
@@ -966,9 +969,8 @@ body {
   color: #fff;
   margin-top: 40px;
   font-size: 16px;
-  position:absolute;
-  bottom:30px;
-  margin-left:-75px;
+  position: absolute;
+  bottom: 20px;
 }
 #section6 .box7 > div a:hover {
   opacity: 0.8;
@@ -1490,7 +1492,7 @@ body {
   right: 0;
   top: 0;
   bottom: 0;
-  z-index: 10000;
+  z-index: 10;
   margin: auto;
   border: 4px dashed #f64b00;
   border-radius: 10px;
