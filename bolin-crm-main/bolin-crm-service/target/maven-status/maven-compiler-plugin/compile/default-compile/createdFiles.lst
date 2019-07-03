@@ -1,0 +1,4 @@
+cn\bolinjiaoyu\service\impl\base\BaseServiceImpl.class
+cn\bolinjiaoyu\service\impl\customerinformation\CustomerInfromationServiceImpl.class
+cn\bolinjiaoyu\service\impl\dict\DictServiceImpl.class
+cn\bolinjiaoyu\service\impl\redis\RedisServiceImpl.class

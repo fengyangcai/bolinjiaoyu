@@ -1,0 +1,4 @@
+cn\bolinjiaoyu\service\redis\RedisService.class
+cn\bolinjiaoyu\service\base\BaseService.class
+cn\bolinjiaoyu\service\customerinformation\CustomerInformationService.class
+cn\bolinjiaoyu\service\dict\DictService.class
