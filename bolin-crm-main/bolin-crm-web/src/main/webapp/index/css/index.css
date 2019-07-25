@@ -1492,7 +1492,7 @@ body {
   right: 0;
   top: 0;
   bottom: 0;
-  z-index: 10;
+  z-index: 10000000;
   margin: auto;
   border: 4px dashed #f64b00;
   border-radius: 10px;
